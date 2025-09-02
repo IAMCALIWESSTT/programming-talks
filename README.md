@@ -1,4 +1,8 @@
-# Programming Talks
+C
+D
+R
+E
+C.......# Programming Talks
 
 I watch a lot of talks that I love to share with my friends, fellows and coworkers.
 As I consider all GitHubbers my friends (oh yeah!), I decided it's time to share the
