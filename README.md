@@ -1,3 +1,6 @@
+Calis
+Development 
+organization 
 # Programming Talks
 
 I watch a lot of talks that I love to share with my friends, fellows and coworkers.
